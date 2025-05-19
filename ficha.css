@@ -82,7 +82,7 @@ transition: all 0.5s ease-in-out;
   margin:6px 0;
 }
 .w3h .pj-contain .pj-innercontain{
-  width:450px;
+  width:650px;
   height:350px;
   display:flex;
   position:absolute;
@@ -102,7 +102,7 @@ transition: all 0.5s ease-in-out;
 transition: all 0.5s ease-in-out;
 }
 .pj-contain .pj-imginfo{
-  width:40%;
+  width:20%;
   height:auto;
   background-color:rgba(0,0,0,0.2);
   margin:10px;
@@ -121,7 +121,7 @@ transition: all 0.5s ease-in-out;
   text-shadow:1px 0 0 black;
 }
 .pj-contain .pj-text{
-  width:60%;
+  width:80%;
   background-color:white;
   padding:10px;
   padding-left:10%;
